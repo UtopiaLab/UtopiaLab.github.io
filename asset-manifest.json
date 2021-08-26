@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.e38df9b0.chunk.js",
-    "main.js.map": "/static/js/main.e38df9b0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bf13925f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bf13925f.js.map",
-    "static/js/2.5327e6f6.chunk.js": "/static/js/2.5327e6f6.chunk.js",
-    "static/js/2.5327e6f6.chunk.js.map": "/static/js/2.5327e6f6.chunk.js.map",
-    "static/js/3.47ebab3c.chunk.js": "/static/js/3.47ebab3c.chunk.js",
-    "static/js/3.47ebab3c.chunk.js.map": "/static/js/3.47ebab3c.chunk.js.map",
+    "main.css": "/static/css/main.a90790e1.chunk.css",
+    "main.js": "/static/js/main.a3ada4c4.chunk.js",
+    "main.js.map": "/static/js/main.a3ada4c4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.8955f365.chunk.js": "/static/js/2.8955f365.chunk.js",
+    "static/js/2.8955f365.chunk.js.map": "/static/js/2.8955f365.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.5327e6f6.chunk.js.LICENSE.txt": "/static/js/2.5327e6f6.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "precache-manifest.110a380b21a8da698c8e3b035455b387.js": "/precache-manifest.110a380b21a8da698c8e3b035455b387.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a90790e1.chunk.css.map": "/static/css/main.a90790e1.chunk.css.map",
+    "static/js/2.8955f365.chunk.js.LICENSE.txt": "/static/js/2.8955f365.chunk.js.LICENSE.txt",
+    "static/media/CV_UmayangaMadushan_v3.2.pdf": "/static/media/CV_UmayangaMadushan_v3.2.0b686ecd.pdf",
+    "static/media/bmv.jpg": "/static/media/bmv.3391f34b.jpg",
+    "static/media/fiverr.jpg": "/static/media/fiverr.ad22ed32.jpg",
+    "static/media/kcc.jpg": "/static/media/kcc.e66244bf.jpg",
+    "static/media/sjp.jpg": "/static/media/sjp.8a37c1c4.jpg",
+    "static/media/slt.jpg": "/static/media/slt.5055719c.jpg",
+    "static/media/umayanga.jpg": "/static/media/umayanga.ed34edd5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf13925f.js",
-    "static/js/2.5327e6f6.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.e38df9b0.chunk.js"
+    "static/js/runtime-main.554504a0.js",
+    "static/js/2.8955f365.chunk.js",
+    "static/css/main.a90790e1.chunk.css",
+    "static/js/main.a3ada4c4.chunk.js"
   ]
 }
